@@ -1,5 +1,5 @@
 # NEK2_Survival
-Code for the survival analysis of patients with high and low NEK2 expression [![DOI](https://zenodo.org/badge/610370369.svg)](https://zenodo.org/badge/latestdoi/610370369)
+Code for the survival analysis of patients with high and low NEK2 and CD274 expression [![DOI](https://zenodo.org/badge/610370369.svg)](https://zenodo.org/badge/latestdoi/610370369)
 
 # CONTENTS OF Code
 
